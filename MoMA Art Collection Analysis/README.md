@@ -6,7 +6,7 @@ This project analyzes the Museum of Modern Art (MoMA) Collection dataset to unco
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
-| `data/`                    | Original Dataset                                |
+| [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
 | `moma_artworks.csv`     | Processed Dataset ready for Tableau            |
 | `scripts/`                 | Python scripts for analysis                     |
 | `visualizations/`          | Tableau dashboards and visual insights         |
