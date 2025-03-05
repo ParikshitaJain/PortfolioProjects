@@ -1,49 +1,45 @@
 ## Project Overview
-The analysis of the MoMA art collection dataset provides insights into the distribution, acquisition trends, and characteristics of artworks in the museum’s collection. By leveraging Python and Tableau, I explored key aspects such as artwork types, artist demographics, acquisition trends, and display status.
-
+Air pollution poses significant risks to public health and the environment, with pollutants like nitrogen dioxide (NO₂), particulate matter (PM2.5), sulfur dioxide (SO₂), ozone (O₃), nitric oxide (NO), and carbon monoxide (CO) being key contributors to degraded air quality. This report analyzes air quality data collected from various monitoring stations, focusing on these six pollutants to identify trends, patterns, and potential sources of pollution.
+The dataset provides pollutant concentrations in parts per billion (ppb) and includes key statistical metrics such as percentiles, mean values, hourly and daily maximum concentrations, and the number of exceedances above regulatory air quality standards. By examining this data, I aim to uncover temporal patterns, assess pollution levels against established air quality criteria, and investigate potential factors contributing to pollution events.
+The analysis employs both SQL and Python for data exploration, transformation, and visualization. SQL is utilized to aggregate and structure the data, while Python provides tools for statistical analysis and visual storytelling. The findings will offer insights into pollution patterns that may support data-driven decisions for environmental policy and public health initiatives.
 
 ## Project Structure
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
-| [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
-| [Artowrks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Tableau    |
-| [Air Quality Analysis.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b27ccef484cbe93a8e1bb0362518003ec75cc2b7/2.%20Canada%20Air%20Pollutant%20Analysis/Air%20Quality%20Analysis.ipynb)  |  Python script for analysis                     |
-| [MoMA Art Gallery.twbx](https://github.com/ParikshitaJain/PortfolioProjects/blob/874531d0830d4e443414238ccff7feb9e1563785/MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx)        | Tableau Workbook         |
-| [MoMa art gallery dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/906ca55d2a4f2b6d2ad1f5e3567b071ca2e8352e/MoMA%20Art%20Collection%20Analysis/MoMa%20art%20gallery%20dashboard.png)          | Tableau dashboard       |
-| [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
+| [Air pollutants Files](https://open.canada.ca/data/en/dataset/e5018406-cb90-4ded-a826-3e756402a2db) | Original Dataset|
+| [Air Quality Analysis.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b27ccef484cbe93a8e1bb0362518003ec75cc2b7/2.%20Canada%20Air%20Pollutant%20Analysis/Air%20Quality%20Analysis.ipynb) |Python script for analysis|
+| [Canada Annual Air Pollutant Analysis.sql](https://github.com/ParikshitaJain/PortfolioProjects/blob/184123094a04b13e526d1f4669d53f2d7a0b414a/2.%20Canada%20Air%20Pollutant%20Analysis/Canada%20Annual%20Air%20Pollutant%20Analysis.sql)| MSSQL script|
+|[README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
 ## Data Source
-The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This research dataset contains 157,630 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in their database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. 
+﻿This analysis is of real world air quality data of Canada using Python and SQL, focusing on key pollutants such as NO₂, PM2.5, SO₂, O₃, NO, and CO.  SQL is utilized for data extraction, cleaning, and aggregation, while Python is employed for statistical analysis and visualization. The analysis explores pollutant trends, peak pollution events, and compliance with air quality standards, providing insights into temporal patterns and potential pollution sources. The data is extracted from Canada Goverment's open data source.
 
 ## Tools & Technologies
-1. Python: Data Cleaning, EDA, Data Insights, NLP
+1. Python: Statistical Analysis and Visualisation
   - Platform : Jupyter lab
-  -	FrameWorks : Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob
+  -	FrameWorks : Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn (Linear,Polynomial Regression)
 
-2. Tableau: Interactive dashboard for data visualization
-  - Tool : Tableau Public
+2. SQL: Data extraction, cleaning, and aggregation
+  - Tool : Microsoft SQL
 
 ## Data Analysis Questions
-1. What is the distribution of artists’ nationalities? 
-2. What is the gender distrbution of artists over time? 
-3. Which classification of artwork is most common?
-4. What is the trend of artwork acquisitions over time?
-5. What are the most commonly used mediums? 
-6. Which departments acquire the most artworks over time? 
-7. What is the average lifespan of artists based on their birth and death years? 
-8. What size of artworks more likely to be "On View" in the museum? 
-9. Which artists have the most works in the collection?
+1. What are the pollutants concentration at different percentiles?
+2. What are the average concentration of pollutants per year? 
+3. What is the average concentration of pollutants in cities?
+4. Is there a correlation between pollutants?
+5. How many times the pollutants exceed their threshold limits per year/city? 
 
 ## Key Findings
-
-- Types of Artworks Displayed: Paintings are the most commonly displayed artworks, followed by photography and sculptures.
-- Acquisition Trends: Significant spikes in acquisitions occurred in the late 1960s and early 2000s, likely due to major donations or museum expansion efforts.
-- Artist Representation: Ludwig Mies van der Rohe is the most featured artist, with notable contributions from Picasso, Matisse, and others.
-- Common Artwork Types: Print and photographs dominate the collection, followed by illustrated books and drawings.
-- Artist Nationality: The majority of artists represented are American, followed by French, German, and British artists.
+- All the pollutants seem to decrease over time, although concentration of Ozone shows the opposite trend.
+- Higher percentiles consistently show spikes across pollutants, indicating episodic pollution events.
+- Traffic-related pollutants (CO, NO, NO₂) show more pronounced percentile shifts, suggesting localized sources.
+- Sharp drop in CO (early 2000s)
+- Toronto seems to be most populated compared to other cities in Canada.
+- O3 and NO2 clearly shows a clean scatter with strong negative trend. Although predictive modeling suggests there may also be a lot of variance in the data. 
+- The plot shows a decreasing trend of exceedance level reached for SO2 and increasing for O3 in the years.
 
 ## Conclusion
 
-The MoMA art collection analysis reveals significant trends in acquisitions, artist representation, and artwork types. The findings suggest that paintings, prints, and photographs dominate the collection, with a strong focus on American and European artists. Acquisition patterns highlight key periods of growth, which may inform future collection strategies. Recommendations include diversifying artist representation, improving data completeness, and leveraging insights for better exhibition planning. By continuously analyzing and updating the collection data, MoMA can enhance its curation and provide a more inclusive and engaging experience for visitors.
+By leveraging real-time data analysis, statistical modeling, and predictive techniques, this study provides insights into the patterns, causes, and risks associated with air pollution in Canadian cities. The findings highlight the need for data-driven decision-making in environmental policy and urban planning. 
 
