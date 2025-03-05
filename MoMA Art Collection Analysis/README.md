@@ -9,8 +9,8 @@ This project analyzes the Museum of Modern Art (MoMA) Collection dataset to unco
 | [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
 | [Artowrks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Tableau    |
 | `scripts/`                 | Python scripts for analysis                     |
+| [MoMA Art Gallery.twbx](https://github.com/ParikshitaJain/PortfolioProjects/blob/874531d0830d4e443414238ccff7feb9e1563785/MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx)        | Tableau dashboard         |
 | `visualizations/`          | Tableau dashboards and visual insights         |
-| `dashboard.twbx`        | Tableau dashboard                              |
 | `README.md`                | Project documentation                          |
 
 ## Data Source
