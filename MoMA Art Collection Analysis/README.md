@@ -2,16 +2,16 @@
 This project analyzes the Museum of Modern Art (MoMA) Collection dataset to uncover insights into artwork trends, artist contributions, and historical patterns in acquisitions. The analysis is conducted using Python for data cleaning and processing and Tableau for visualization.
 
 
-## 📂 Project Structure
+## Project Structure
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
 | [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
 | [Artowrks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Tableau    |
-| `scripts/`                 | Python scripts for analysis                     |
+| [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Python script for analysis                     |
 | [MoMA Art Gallery.twbx](https://github.com/ParikshitaJain/PortfolioProjects/blob/874531d0830d4e443414238ccff7feb9e1563785/MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx)        | Tableau dashboard         |
 | `visualizations/`          | Tableau dashboards and visual insights         |
-| `README.md`                | Project documentation                          |
+| [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
 ## Data Source
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This research dataset contains 157,630 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in their database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. 
