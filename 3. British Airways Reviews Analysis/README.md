@@ -5,9 +5,9 @@ Airline customer experience plays a crucial role in brand reputation, loyalty, a
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
-| [Br](https://open.canada.ca/data/en/dataset/e5018406-cb90-4ded-a826-3e756402a2db) | Original Dataset|
+| [British Airways Review Dataset](https://github.com/ParikshitaJain/PortfolioProjects/blob/b9bba1a2914024fe7ab189e688a6b8cc096f5456/3.%20British%20Airways%20Reviews%20Analysis/british_airways_review.xlsx) | Original Dataset|
 | [British Airways Review.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/341d6ce010ba0672dc9b46b211d03e62cb6da22f/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20analysis.ipynb) |Python script for analysis|
-| [British Airways Review data.sql](https://github.com/ParikshitaJain/PortfolioProjects/blob/341d6ce010ba0672dc9b46b211d03e62cb6da22f/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20database%20cleaned.sql)| MSSQL script|
+| [British Airways Review.sql](https://github.com/ParikshitaJain/PortfolioProjects/blob/341d6ce010ba0672dc9b46b211d03e62cb6da22f/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20database%20cleaned.sql)| MSSQL script|
 |[README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/341d6ce010ba0672dc9b46b211d03e62cb6da22f/3.%20British%20Airways%20Reviews%20Analysis/README.md)| Project documentation          |
 
 ## Data Source
