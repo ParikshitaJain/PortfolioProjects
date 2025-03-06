@@ -19,7 +19,7 @@ The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-play
 ## Tools & Technologies
 1. Python: Data Cleaning, EDA, Data Insights, NLP
   - Platform : Jupyter lab
-  -	FrameWorks : Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob
+  -	Libraries : Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob
 
 2. Tableau: Interactive dashboard for data visualization
   - Tool : Tableau Public
