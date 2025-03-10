@@ -9,6 +9,7 @@ Welcome to my **Portfolio Projects** repository! Here, you’ll find a collectio
 | **MoMA Art Collection Analysis** | [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/1.%20MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb) • [Tableau](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/1.%20MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx) |  
 | **Canada Air Quality Analysis** |  [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/2.%20Canada%20Air%20Pollutant%20Analysis/Air%20Quality%20Analysis.ipynb) • [SQL]([./Canada%20Air%20Quality%20Analysis/dashboard.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/2.%20Canada%20Air%20Pollutant%20Analysis/Canada%20Annual%20Air%20Pollutant%20Analysis.sql)) |  
 | **British Airways Reviews Analysis** | [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20analysis.ipynb) • [SQL](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20database%20cleaned.sql)|  
+|**Hospital Patient Analysis**| [PowerBI](https://github.com/ParikshitaJain/PortfolioProjects/tree/98bd7c2f0a797b0fdcab15534e01c9a34fc1ee7a/4.%20Hospital%20Patient%20Analysis)
 ---
 
 ## Project Descriptions  
@@ -24,3 +25,7 @@ Welcome to my **Portfolio Projects** repository! Here, you’ll find a collectio
 ### British Airways Reviews Analysis  
 - **Objective:** Analyze customer reviews of British Airways to uncover key trends in customer satisfaction.  
 - **Tools Used:** Python (Statistical Analysis, NLTK for sentiment analysis and Visualisation), SQL (Data extraction, cleaning, and aggregation)
+
+### Hospital Patient Analysis
+- **Objective:** The Hospital Patient Analysis project focuses on extracting valuable insights from healthcare data to improve patient care, resource allocation, and overall operational efficiency.
+- **Tools Used:** Power BI (Analysis and Visualisation)
