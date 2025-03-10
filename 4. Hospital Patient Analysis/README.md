@@ -7,12 +7,10 @@ The Hospital Patient Analysis project focuses on extracting valuable insights fr
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
-| [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
-| [Artworks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Tableau    |
-| [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Python script for analysis                     |
-| [MoMA Art Gallery.twbx](https://github.com/ParikshitaJain/PortfolioProjects/blob/874531d0830d4e443414238ccff7feb9e1563785/MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx)        | Tableau Workbook         |
-| [MoMa art gallery dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/906ca55d2a4f2b6d2ad1f5e3567b071ca2e8352e/MoMA%20Art%20Collection%20Analysis/MoMa%20art%20gallery%20dashboard.png)          | Tableau dashboard       |
-| [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
+| [Hospital Data Records.rar](https://github.com/ParikshitaJain/PortfolioProjects/blob/main/4.%20Hospital%20Patient%20Analysis/Hospital%2BPatient%2BRecords.rar)                   | Original Dataset               |
+| [Hospital Data Analysis.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/main/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis.pbix)     | Processed Dataset ready for Tableau    |
+| [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Project Analysis Documentation                      |
+| [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/9a00de63e4b17054d0dd2e785bfc86fc0f4bdf64/4.%20Hospital%20Patient%20Analysis/README.md)                | Project Description         |
 
 ## Data Source
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This data is on ~1k patients of Massachussets General Hospital from 2011-2022, including information on patient demographics, insurance coverage, and medical encounters & procedures.
