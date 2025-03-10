@@ -9,7 +9,7 @@ The Hospital Patient Analysis project focuses on extracting valuable insights fr
 |----------------------------|--------------------------------------------------|
 | [Hospital Data Records.rar](https://github.com/ParikshitaJain/PortfolioProjects/blob/main/4.%20Hospital%20Patient%20Analysis/Hospital%2BPatient%2BRecords.rar)                   | Original Dataset               |
 | [Hospital Data Analysis.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/main/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis.pbix)     | Processed Dataset ready for Tableau    |
-| [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Project Analysis Documentation                      |
+| [Hospital Data Analysis Report](https://github.com/ParikshitaJain/PortfolioProjects/blob/a257f7dca189ab24d836807c99aaffd3e7d4aa5a/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis%20Report.pdf)  |             Project Analysis Documentation                      |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/9a00de63e4b17054d0dd2e785bfc86fc0f4bdf64/4.%20Hospital%20Patient%20Analysis/README.md)                | Project Description         |
 
 ## Data Source
@@ -38,14 +38,19 @@ Understanding the financial aspects of patient encounters is crucial for any hea
 
 ## Key Findings
 
-- Types of Artworks Displayed: Paintings are the most commonly displayed artworks, followed by photography and sculptures.
-- Acquisition Trends: Significant spikes in acquisitions occurred in the late 1960s and early 2000s, likely due to major donations or museum expansion efforts.
-- Artist Representation: Ludwig Mies van der Rohe is the most featured artist, with notable contributions from Picasso, Matisse, and others.
-- Common Artwork Types: Print and photographs dominate the collection, followed by illustrated books and drawings.
-- Artist Nationality: The majority of artists represented are American, followed by French, German, and British artists.
+-	Ambulatory and emergency cases have the longest hospital stays, suggesting a need for better triage, care coordination, and discharge planning.
+-	Outpatient, wellness, and urgent care cases have significantly lower hospital stay durations, reinforcing the importance of early interventions and preventive healthcare.
+-	The average patient age is 69, with a significant elderly population (21K senior citizens) requiring specialized care, chronic disease management, and geriatric services.
+-	There is an increasing demand for mental health procedures, such as depression screenings, substance abuse assessments, and hospice care, emphasizing the need for stronger psychological support and palliative care services.
+-	Health assessments are the most frequently performed procedures (4,596 cases), reflecting a proactive approach to preventive healthcare.
+-	Cardiovascular treatments, such as electrical cardioversion, generate the highest revenue ($36.46M), indicating a significant focus on cardiac care.
+-	Depression screenings and assessments of mental health conditions are among the top procedures, showing a growing need for mental health resources.
+-	The highest hospital expenses are driven by cardiac-related treatments, requiring investment in preventive cardiology and remote patient monitoring to lower hospital dependency.
+-	There is a strong correlation between frequently performed procedures and high-revenue services, suggesting an opportunity for better resource allocation and improved patient outcomes.
+
 
 ## Conclusion
 
-The MoMA art collection analysis reveals significant trends in acquisitions, artist representation, and artwork types. The findings suggest that paintings, prints, and photographs dominate the collection, with a strong focus on American and European artists. Acquisition patterns highlight key periods of growth, which may inform future collection strategies. Recommendations include diversifying artist representation, improving data completeness, and leveraging insights for better exhibition planning. By continuously analyzing and updating the collection data, MoMA can enhance its curation and provide a more inclusive and engaging experience for visitors.
+This analysis utilized hospital patient data, leveraging visualization tools like Power BI to uncover trends in patient demographics, hospital stay durations, procedure frequencies, and healthcare costs. By applying data analytics techniques, I identified critical areas for improvement, including emergency care efficiency, preventive healthcare, mental health services, and cost optimization.
 
 
