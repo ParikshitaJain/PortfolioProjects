@@ -9,7 +9,7 @@ The Hospital Patient Analysis project focuses on extracting valuable insights fr
 |----------------------------|--------------------------------------------------|
 | [Hospital Data Records.rar](https://github.com/ParikshitaJain/PortfolioProjects/blob/main/4.%20Hospital%20Patient%20Analysis/Hospital%2BPatient%2BRecords.rar)                   | Original Dataset               |
 | [Hospital Data Analysis.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/main/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis.pbix)     | Processed Dataset ready for Tableau    |
-| [Hospital Data Analysis Report](https://github.com/ParikshitaJain/PortfolioProjects/blob/a257f7dca189ab24d836807c99aaffd3e7d4aa5a/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis%20Report.pdf)  |             Project Analysis Documentation                      |
+| [Hospital Data Analysis Report](https://github.com/ParikshitaJain/PortfolioProjects/blob/abb356d36a6b1847366a5d018394b114e11fefd4/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis%20Report.pdf)  |             Project Analysis Documentation                      |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/9a00de63e4b17054d0dd2e785bfc86fc0f4bdf64/4.%20Hospital%20Patient%20Analysis/README.md)                | Project Description         |
 
 ## Data Source
