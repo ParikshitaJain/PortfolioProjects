@@ -1,6 +1,6 @@
-## Project Overview
+## Executive Summary
 Data analysis is crucial for the healthcare industry as it directly influences decision-making, operational efficiency, and patient care quality. With the growing amount of patient data being generated, healthcare organizations are increasingly relying on data-driven insights to improve clinical outcomes, streamline operations, and reduce costs.
-The Hospital Patient Analysis project focuses on extracting valuable insights from healthcare data to improve patient care, resource allocation, and overall operational efficiency. In this analysis, I used Power BI to visualize and explore data from three core tables—Encounters, Patients, and Procedures. This powerful tool helped in creating interactive dashboards that provided a comprehensive overview of patient health patterns, their interactions with the healthcare system, and the medical procedures they undergo.
+The Hospital Patient Analysis project focuses on extracting valuable insights from healthcare data to improve patient care, resource allocation, and overall operational efficiency. Focusing on preventive healthcare, increased resource allocation for cardiac patients, more awareness for mental health cases.
 
 
 ## Project Structure
@@ -12,14 +12,18 @@ The Hospital Patient Analysis project focuses on extracting valuable insights fr
 | [Hospital Data Analysis Report](https://github.com/ParikshitaJain/PortfolioProjects/blob/abb356d36a6b1847366a5d018394b114e11fefd4/4.%20Hospital%20Patient%20Analysis/Hospital%20Patients%20Analysis%20Report.pdf)  |             Project Analysis Documentation                      |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/9a00de63e4b17054d0dd2e785bfc86fc0f4bdf64/4.%20Hospital%20Patient%20Analysis/README.md)                | Project Description         |
 
-## Data Source
+## Data Sources & Methodology
+### Data Source
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This data is on ~1k patients of Massachussets General Hospital from 2011-2022, including information on patient demographics, insurance coverage, and medical encounters & procedures.
 
-## Tools & Technologies
-Power BI: Interactive dashboard for data interpretation and visualization
-  - Tool : Power BI
+### Tools & Technologies
+Tools : Power BI (DAX functions)
+Data Cleaning : Handling missing values, transformations
+Analysis Techniques : Descriptive stats, Trend Analysis, KPIs, Year-over-Year (YoY) & Month-over-Month (MoM) comparisons, custom DAX measures, Map Visualizations
+
 
 ## Objectives
+In this analysis, I used Power BI to visualize and explore data from three core tables—Encounters, Patients, and Procedures. This powerful tool helped in creating interactive dashboards that provided a comprehensive overview of patient health patterns, their interactions with the healthcare system, and the medical procedures they undergo.
 
 ![Hospital Patients Analysis Model View](https://github.com/user-attachments/assets/2dec255f-d844-4b51-93d1-b9e0e599f8bf)
 
@@ -36,7 +40,7 @@ This objective focuses on evaluating the clinical effectiveness of treatments an
 4. Financial & Insurance Considerations:
 Understanding the financial aspects of patient encounters is crucial for any healthcare organization. In this section, I will analyze how many patient encounters are fully covered by insurance versus those paid out-of-pocket, providing insights into the financial burden on patients.
 
-## Key Findings
+## Key Findings & Recommendations
 
 -	Ambulatory and emergency cases have the longest hospital stays, suggesting a need for better triage, care coordination, and discharge planning.
 -	Outpatient, wellness, and urgent care cases have significantly lower hospital stay durations, reinforcing the importance of early interventions and preventive healthcare.
