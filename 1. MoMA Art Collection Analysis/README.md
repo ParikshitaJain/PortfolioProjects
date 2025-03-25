@@ -1,5 +1,8 @@
+## Executive Summary
+The analysis of the MoMA art collection dataset provides insights into the distribution, acquisition trends, and characteristics of artworks and artists in the museum’s collection. The findings indicate that the collection is primarily composed of paintings, prints, and photographs, with a notable emphasis on American and European artists. The acquisition trends reveal significant periods of growth, which could guide future strategies for expanding the collection. To improve exhibition planning, it is important to diversify artist representation, enhance data completeness, and leverage insights effectively.
+
 ## Project Overview
-The analysis of the MoMA art collection dataset provides insights into the distribution, acquisition trends, and characteristics of artworks in the museum’s collection. By leveraging Python and Tableau, I explored key aspects such as artwork types, artist demographics, acquisition trends, and display status.
+The goal of the analysis of the MoMA art collection dataset is to provide insights into the distribution, acquisition trends, and characteristics of artworks in the museum’s collection. Insights will guide on how an art gallery can make data-driven decision to increase its productvity make long-term actionable strategies for growth.
 
 
 ## Project Structure
@@ -13,16 +16,14 @@ The analysis of the MoMA art collection dataset provides insights into the distr
 | [MoMa art gallery dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/c38975a5fef816fdc6df196b544701159194cab9/1.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20dashboard.png)          | Tableau dashboard       |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
+### Data Sources and Methodology
 ## Data Source
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This research dataset contains 157,630 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in their database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. 
 
 ## Tools & Technologies
-1. Python: Data Cleaning, EDA, Data Insights, NLP
-  - Platform : Jupyter lab
-  -	Libraries : Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob
-
-2. Tableau: Interactive dashboard for data visualization
-  - Tool : Tableau Public
+Tools Used : Python (Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob), Tableau
+Data Cleaning & Processing : Handling missing values, outliers, transformations, removing duplicates
+Analysis Techniques :  Descriptive stats, EDA, NLP, Wordcloud visualisation
 
 ## Data Analysis Questions
 1. What is the distribution of artists’ nationalities? 
@@ -43,7 +44,7 @@ The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-play
 - Common Artwork Types: Print and photographs dominate the collection, followed by illustrated books and drawings.
 - Artist Nationality: The majority of artists represented are American, followed by French, German, and British artists.
 
-## Conclusion
+##  Recommendations & Actionable Insights
 
 The MoMA art collection analysis reveals significant trends in acquisitions, artist representation, and artwork types. The findings suggest that paintings, prints, and photographs dominate the collection, with a strong focus on American and European artists. Acquisition patterns highlight key periods of growth, which may inform future collection strategies. Recommendations include diversifying artist representation, improving data completeness, and leveraging insights for better exhibition planning. By continuously analyzing and updating the collection data, MoMA can enhance its curation and provide a more inclusive and engaging experience for visitors.
 
