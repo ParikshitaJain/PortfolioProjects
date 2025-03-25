@@ -16,11 +16,11 @@ The goal of the analysis of the MoMA art collection dataset is to provide insigh
 | [MoMa art gallery dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/c38975a5fef816fdc6df196b544701159194cab9/1.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20dashboard.png)          | Tableau dashboard       |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
-### Data Sources and Methodology
-## Data Source
+## Data Sources and Methodology
+### Data Source
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This research dataset contains 157,630 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in their database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. 
 
-## Tools & Technologies
+### Tools & Technologies
 Tools Used : Python (Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob), Tableau
 Data Cleaning & Processing : Handling missing values, outliers, transformations, removing duplicates
 Analysis Techniques :  Descriptive stats, EDA, NLP, Wordcloud visualisation
