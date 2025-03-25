@@ -21,9 +21,9 @@ The goal of the analysis of the MoMA art collection dataset is to provide insigh
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This research dataset contains 157,630 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in their database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. 
 
 ### Tools & Technologies
-Tools Used : Python (Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob), Tableau
-Data Cleaning & Processing : Handling missing values, outliers, transformations, removing duplicates
-Analysis Techniques :  Descriptive stats, EDA, NLP, Wordcloud visualisation
+1. Tools Used : Python (Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob), Tableau
+2. Data Cleaning & Processing : Handling missing values, outliers, transformations, removing duplicates
+3. Analysis Techniques :  Descriptive stats, EDA, NLP, Wordcloud visualisation
 
 ## Data Analysis Questions
 1. What is the distribution of artists’ nationalities? 
