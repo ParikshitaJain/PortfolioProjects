@@ -21,7 +21,7 @@ This project involves analyzing the 2023 e-commerce transactional data for a UK-
 | [E-Commerce Data Analysis.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-commerce%20Data%20Analysis.ipynb)  |             Python script for analysis                     |
 | [E-Commerce Data Analysis.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis.pbix)        | Power BI Workbook         |
 | [E-Commerce Data Analysis dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis.pbix)          | Power BI dashboard       |
-|E-Commerce Data Analysis Report.pdf |  (https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis%20Report.pdf) | Project Report
+|[E-Commerce Data Analysis Report.pdf](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis%20Report.pdf) | Project Report | 
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/README.md)                | Project documentation          |
 
 ## Data Sources and Methodology
