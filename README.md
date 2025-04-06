@@ -15,6 +15,10 @@ Welcome to my **Portfolio Projects** repository! Here, you’ll find a collectio
 
 ## Project Descriptions  
 
+### E-Commerce Data Analysis
+- **Objective:** This project involves analyzing the 2023 e-commerce transactional data for a UK-based retailer to identify key sales trends, customer behaviors, and product performance. 
+- **Tools Used:** Python, Power BI (Analysis and Visualisation)
+
 ### MoMA Art Collection Analysis  
 - **Objective:** Explore the Museum of Modern Art (MoMA) collection dataset to find patterns in artist contributions and artwork types.  
 - **Tools Used:** Python (Data Cleaning, EDA, Data Insights, NLP), Tableau for interactive dashboard.
@@ -30,7 +34,3 @@ Welcome to my **Portfolio Projects** repository! Here, you’ll find a collectio
 ### Hospital Patient Analysis
 - **Objective:** The Hospital Patient Analysis project focuses on extracting valuable insights from healthcare data to improve patient care, resource allocation, and overall operational efficiency.
 - **Tools Used:** Power BI (Analysis and Visualisation)
-
-### E-Commerce Data Analysis
-- **Objective:** This project involves analyzing the 2023 e-commerce transactional data for a UK-based retailer to identify key sales trends, customer behaviors, and product performance. 
-- **Tools Used:** Python, Power BI (Analysis and Visualisation)
