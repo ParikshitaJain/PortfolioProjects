@@ -14,6 +14,7 @@ The goal of the analysis of the MoMA art collection dataset is to provide insigh
 | [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Python script for analysis                     |
 | [MoMA Art Gallery.twbx](https://github.com/ParikshitaJain/PortfolioProjects/blob/c38975a5fef816fdc6df196b544701159194cab9/1.%20MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx)        | Tableau Workbook         |
 | [MoMa art gallery dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/c38975a5fef816fdc6df196b544701159194cab9/1.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20dashboard.png)          | Tableau dashboard       |
+| [MoMa art gallery Report.pdf](https://github.com/ParikshitaJain/PortfolioProjects/blob/348728199360c97d15e6d96a7e2a49f1873cdb2d/5.%20MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Collection%20Analysis%20Full%20Report.pdf)          | Project Report      |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
 ## Data Sources and Methodology
