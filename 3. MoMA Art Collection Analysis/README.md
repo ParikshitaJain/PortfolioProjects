@@ -10,11 +10,10 @@ The goal of the analysis of the MoMA art collection dataset is to provide insigh
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
 | [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
-| [Artworks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Tableau    |
+| [Artworks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Power BI    |
 | [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Python script for analysis                     |
-| [MoMA Art Gallery.twbx](https://github.com/ParikshitaJain/PortfolioProjects/blob/c38975a5fef816fdc6df196b544701159194cab9/1.%20MoMA%20Art%20Collection%20Analysis/MoMa%20Art%20Gallery.twbx)        | Tableau Workbook         |
-| [MoMa art gallery dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/c38975a5fef816fdc6df196b544701159194cab9/1.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20dashboard.png)          | Tableau dashboard       |
-| [MoMa art gallery Report.pdf](https://github.com/ParikshitaJain/PortfolioProjects/blob/348728199360c97d15e6d96a7e2a49f1873cdb2d/5.%20MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Collection%20Analysis%20Full%20Report.pdf)          | Project Report      |
+| [MoMA Art Gallery.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/86a25db934df735a842093b25bdda56c80ce3fc0/3.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20gallery%20data%20analysis.pbix)        | Power BI Workbook         |
+| [MoMa art gallery Report.pdf](https://github.com/ParikshitaJain/PortfolioProjects/blob/86a25db934df735a842093b25bdda56c80ce3fc0/3.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20gallery%20data%20analysis%20dashboard.pdf)          | Project Report      |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
 ## Data Sources and Methodology
@@ -22,7 +21,7 @@ The goal of the analysis of the MoMA art collection dataset is to provide insigh
 The dataset is sourced from [MavenAnalytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=1&pageSize=5). This research dataset contains 157,630 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in their database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. 
 
 ### Tools & Technologies
-1. Tools Used : Python (Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob), Tableau
+1. Tools Used : Python (Pandas, Numpy, Matplotlib, Seaborn, WordCloud, TextBlob), Power BI
 2. Data Cleaning & Processing : Handling missing values, outliers, transformations, removing duplicates
 3. Analysis Techniques :  Descriptive stats, EDA, NLP, Wordcloud visualisation
 
