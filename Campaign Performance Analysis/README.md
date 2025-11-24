@@ -2,12 +2,10 @@
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
-| [Dataset](https://www.kaggle.com/datasets/atharvaarya25/e-commerce-analysis-uk)                   | Original Dataset               |
-| [Marketing Data Analysis.sql](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-commerce%20Data%20Analysis.ipynb)  |             SQL queries for analysis                     |
-| [Marketing Data Analysis.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis.pbix)        | Power BI Workbook         |
-| [Marketing Data Analysis dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis.pbix)          | Power BI dashboard       |
-|[E-Commerce Data Analysis Report.pdf](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis%20Report.pdf) | Project Report | 
-| [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/4e7ea4144693fa1cb71ff91ca64e72c0d071cbf0/E-Commerce%20Data%20Analysis/README.md)                | Project documentation          |
+| [Dataset](https://github.com/ParikshitaJain/PortfolioProjects/blob/59243e62ba76f486e55e73f95932a8a0bc24d5c3/Campaign%20Performance%20Analysis/camp%20data.xlsx)                   | Original Dataset               |
+| [Marketing Data Analysis](https://github.com/ParikshitaJain/PortfolioProjects/blob/59243e62ba76f486e55e73f95932a8a0bc24d5c3/Campaign%20Performance%20Analysis/SQL%20Query.png)  |             SQL queries for analysis                     |
+| [Marketing Data Analysis dashboard](https://github.com/ParikshitaJain/PortfolioProjects/blob/59243e62ba76f486e55e73f95932a8a0bc24d5c3/Campaign%20Performance%20Analysis/Marketing%20data%20analyst%20project.pdf)          | Power BI dashboard       |
+| [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/59243e62ba76f486e55e73f95932a8a0bc24d5c3/Campaign%20Performance%20Analysis/README.md)                | Project documentation          |
 
 ## Executive Summary
 
