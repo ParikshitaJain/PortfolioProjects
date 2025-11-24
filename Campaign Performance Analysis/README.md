@@ -19,7 +19,7 @@ Key insights include:
 This analysis offers actionable insights into which platforms, channels, and campaigns delivered the most engagement and cost efficiency, providing a foundation for optimizing future marketing strategies.
 
 ## Introduction
-This report examines the performance of multiple marketing campaigns over a one-year period using a Kaggle dataset that captures campaign activities across several channels and platforms. The data includes key interaction metrics—impressions, clicks, and click-through rates (CTR)—along with media cost, allocated budgets, and channel-level performance indicators. Together, these elements provide a clear view of how each campaign engaged audiences and how efficiently its budget was used.
+This report examines the performance of multiple marketing campaigns over a one-year period using a Kaggle dataset that captures campaign activities across several channels and platforms. The data includes key interaction metrics : impressions, clicks, and click-through rates (CTR)—along with media cost, allocated budgets, and channel-level performance indicators. Together, these elements provide a clear view of how each campaign engaged audiences and how efficiently its budget was used.
 The objective of this analysis is straightforward: compare the effectiveness of different channels, platforms, and individual campaigns. Performance is assessed through core marketing metrics such as impressions, clicks, CTR, cost efficiency (CPC and CPM), and spend relative to budget. The goal is to identify which campaigns and channels delivered stronger engagement and better cost performance, and which ones underperformed despite investment.
 The scope of the analysis is intentionally focused. Only the metrics available within the Kaggle dataset are used, including impressions, clicks, media cost, impressions, and campaign-level performance. External factors such as attribution modeling, ROI calculations, conversion outcomes, or predictive forecasting are excluded. The report centers strictly on descriptive and comparative insights drawn from the dataset itself.
 
@@ -82,7 +82,7 @@ Budget Utilization: While most campaigns remained under budget, select campaigns
 
 ## Recommendations
 - Prioritize campaigns and platforms with proven high CTR and low CPC, such as DV360 and display channels, to improve overall engagement efficiency.
-- Reevaluate high-CPC, low-CTR campaigns like Campaign 3719 to identify root causes—whether targeting, creatives, or timing and adjust strategy accordingly.
+- Reevaluate high-CPC, low-CTR campaigns like Campaign 3719 to identify root causes, whether targeting, creatives, or timing and adjust strategy accordingly.
 - Leverage seasonal trends by allocating higher budgets in high-engagement months (August and October) while optimizing for cost efficiency in low-CTR periods.
 - Regularly monitor channel-level performance to balance spend, maximize clicks, and maintain cost efficiency across campaigns.
 
