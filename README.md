@@ -7,15 +7,21 @@ Welcome to my **Portfolio Projects** repository! Here, you’ll find a collectio
 | Project Name | Tools Used |   
 |-------------|-----------|  
 | **E-Commerce Data Analysis** | [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/028706e8b4d66199f0173de92b8c9ae11ce4eaa3/E-Commerce%20Data%20Analysis/E-commerce%20Data%20Analysis.ipynb) • [Power BI](https://github.com/ParikshitaJain/PortfolioProjects/blob/028706e8b4d66199f0173de92b8c9ae11ce4eaa3/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis.pbix) |  
+| **Campaign Performance Analysis** | [Power BI](https://github.com/ParikshitaJain/PortfolioProjects/blob/9e30887ba2d9e85db1dff4898bf281ecca69a7e0/Campaign%20Performance%20Analysis/Marketing%20data%20analyst%20project.pdf) • [Power BI](https://github.com/ParikshitaJain/PortfolioProjects/blob/028706e8b4d66199f0173de92b8c9ae11ce4eaa3/E-Commerce%20Data%20Analysis/E-Commerce%20Data%20Analysis.pbix) |  
 | **MoMA Art Collection Analysis** | [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/1.%20MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb) • [Power BI](https://github.com/ParikshitaJain/PortfolioProjects/blob/77162ae89bbe5eebab72aec819bacf73044bced5/3.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20gallery%20data%20analysis.pbix) |  
 | **Canada Air Quality Analysis** |  [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/2.%20Canada%20Air%20Pollutant%20Analysis/Air%20Quality%20Analysis.ipynb) • [SQL]([./Canada%20Air%20Quality%20Analysis/dashboard.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/2.%20Canada%20Air%20Pollutant%20Analysis/Canada%20Annual%20Air%20Pollutant%20Analysis.sql)) |  
 | **British Airways Reviews Analysis** | [Python](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20analysis.ipynb) • [SQL](https://github.com/ParikshitaJain/PortfolioProjects/blob/a0e0d85a75992d7b2d3f7792aab8c139e50373a9/3.%20British%20Airways%20Reviews%20Analysis/Reviews%20database%20cleaned.sql)|  
 |**Hospital Patient Analysis**| [PowerBI](https://github.com/ParikshitaJain/PortfolioProjects/tree/98bd7c2f0a797b0fdcab15534e01c9a34fc1ee7a/4.%20Hospital%20Patient%20Analysis)
+
 ---
 
 ## Project Descriptions  
 
 ### E-Commerce Data Analysis
+- **Objective:** This project provides a comprehensive analysis of marketing campaign performance over the year, focusing on engagement metrics, cost efficiency, and platform level trends.
+- **Tools Used:** Excel (Cleaning), Power BI (Analysis and Visualisation), SQL(Data Transformation)
+  
+### Campaign Performance Analysis
 - **Objective:** This project involves analyzing the 2023 e-commerce transactional data for a UK-based retailer to identify key sales trends, customer behaviors, and product performance. 
 - **Tools Used:** Python, Power BI (Analysis and Visualisation)
 
