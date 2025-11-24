@@ -18,12 +18,12 @@ Welcome to my **Portfolio Projects** repository! Here, you’ll find a collectio
 ## Project Descriptions  
 
 ### E-Commerce Data Analysis
-- **Objective:** This project provides a comprehensive analysis of marketing campaign performance over the year, focusing on engagement metrics, cost efficiency, and platform level trends.
-- **Tools Used:** Excel (Cleaning), Power BI (Analysis and Visualisation), SQL(Data Transformation)
-  
-### Campaign Performance Analysis
 - **Objective:** This project involves analyzing the 2023 e-commerce transactional data for a UK-based retailer to identify key sales trends, customer behaviors, and product performance. 
 - **Tools Used:** Python, Power BI (Analysis and Visualisation)
+  
+### Campaign Performance Analysis
+- **Objective:** This project provides a comprehensive analysis of marketing campaign performance over the year, focusing on engagement metrics, cost efficiency, and platform level trends.
+- **Tools Used:** Excel (Cleaning), Power BI (Analysis and Visualisation), SQL(Data Transformation)
 
 ### MoMA Art Collection Analysis  
 - **Objective:** Explore the Museum of Modern Art (MoMA) collection dataset to find patterns in artist contributions and artwork types.  
