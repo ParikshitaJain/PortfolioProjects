@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-This report provides a comprehensive analysis of marketing campaign performance over the year, focusing on engagement metrics, cost efficiency, and platform-level trends. Using a Kaggle dataset that aggregates impressions, clicks, spend, and budget at the campaign and channel level, the analysis highlights patterns in audience interactions, channel effectiveness, and campaign efficiency.
+This report provides a comprehensive analysis of marketing campaign performance over the year, focusing on engagement metrics, cost efficiency, and platform level trends. Using a Kaggle dataset that aggregates impressions, clicks, spend, and budget at the campaign and channel level, the analysis highlights patterns in audience interactions, channel effectiveness, and campaign efficiency.
 
 Key insights include:
 
@@ -72,7 +72,7 @@ Cost Metrics: CPC peaked in July ($0.33) and was lowest in January ($0.11), indi
 
 Top Platforms: DV360 led in impressions (34M) and clicks (1.35M) with strong CTR (3.99%) and moderate CPC ($0.22), making it a high-reach and cost-efficient channel. Facebook Ads delivered comparable results in clicks (1M) and impressions (33M) but at slightly higher total spend ($292K). Google Ads exhibited the lowest engagement efficiency, with both CTR (3.65%) and clicks (1M) lagging behind other platforms despite lower spend ($276.4K).
 
-Channel Performance: Mobile campaigns drove the highest overall clicks, while video campaigns generated the most impressions. Display campaigns achieved the highest CTR (3.95%), making them effective for engagement-focused campaigns. CPC analysis revealed that search and social campaigns ($0.23) were marginally more expensive than mobile, video, and display campaigns ($0.22), highlighting areas where cost efficiency could be improved.
+Channel Performance: Mobile campaigns drove the highest overall clicks, while video campaigns generated the most impressions. Display campaigns achieved the highest CTR (3.95%), making them effective for engagement focused campaigns. CPC analysis revealed that search and social campaigns ($0.23) were marginally more expensive than mobile, video, and display campaigns ($0.22), highlighting areas where cost efficiency could be improved.
 
 #### 3. Campaign-level Insights
 
@@ -82,7 +82,7 @@ Budget Utilization: While most campaigns remained under budget, select campaigns
 
 ## Recommendations
 - Prioritize campaigns and platforms with proven high CTR and low CPC, such as DV360 and display channels, to improve overall engagement efficiency.
-- Reevaluate high-CPC, low-CTR campaigns like Campaign 3719 to identify root causes—whether targeting, creatives, or timing—and adjust strategy accordingly.
+- Reevaluate high-CPC, low-CTR campaigns like Campaign 3719 to identify root causes—whether targeting, creatives, or timing and adjust strategy accordingly.
 - Leverage seasonal trends by allocating higher budgets in high-engagement months (August and October) while optimizing for cost efficiency in low-CTR periods.
 - Regularly monitor channel-level performance to balance spend, maximize clicks, and maintain cost efficiency across campaigns.
 
